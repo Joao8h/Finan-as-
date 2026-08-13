@@ -1,6 +1,6 @@
 {
-  "name": "Meu Razão - Finanças",
-  "short_name": "Meu Razão",
+  "name": "Finanças",
+  "short_name": "Finanças",
   "description": "Controle de renda, despesas fixas/variáveis, cartão de crédito e previsão do próximo mês.",
   "start_url": "./index.html",
   "display": "standalone",
