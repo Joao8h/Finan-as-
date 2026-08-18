@@ -1,4 +1,4 @@
-const CACHE = 'meurazao-v1';
+const CACHE = 'financas-v6';
 const FILES = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e=>{
